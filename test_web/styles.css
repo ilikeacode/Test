@@ -78,6 +78,7 @@ body {
   background-color: #aaa;
   width: 100%;
   padding: 20px;
+  boarder-radius:20px;
 }
 
 /* Footer */
